@@ -6,14 +6,13 @@ namespace RecursiveFibonacci
     {
         public static void Main(string[] args)
         {
-            var fibonacciNum = GetFibonacci(21);
+            int inputNumber = int.Parse(Console.ReadLine());
+            var fibonacciNum = GetFibonacci(inputNumber);
             Console.WriteLine(fibonacciNum);
         }
 
         public static int GetFibonacci(int n)
         {
-            Console.WriteLine(n);
-
             if (n == 0 || n == 1)
             {
                 return 1;
