@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generating(01)Vectors", "Ge
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveDrawing", "RecursiveDrawing\RecursiveDrawing.csproj", "{027596BD-0EA4-4BFB-AEC6-DD25EA658AC7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveSumArray", "RecursiveSumArray\RecursiveSumArray.csproj", "{652A73C0-A184-4EF0-9691-6AA3DD645BB7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{027596BD-0EA4-4BFB-AEC6-DD25EA658AC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{027596BD-0EA4-4BFB-AEC6-DD25EA658AC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{027596BD-0EA4-4BFB-AEC6-DD25EA658AC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{652A73C0-A184-4EF0-9691-6AA3DD645BB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{652A73C0-A184-4EF0-9691-6AA3DD645BB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{652A73C0-A184-4EF0-9691-6AA3DD645BB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{652A73C0-A184-4EF0-9691-6AA3DD645BB7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
