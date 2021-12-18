@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.PermutationsWithoutRepeti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.PermutationsWithRepetition", "2.PermutationsWithRepetition\2.PermutationsWithRepetition.csproj", "{B2202D7C-C812-4DC2-AEF9-3F7120F1357D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.VariationsWithoutRepetition", "3.VariationsWithoutRepetition\3.VariationsWithoutRepetition.csproj", "{9F203345-E4FD-48D6-8526-105ACA1719C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{B2202D7C-C812-4DC2-AEF9-3F7120F1357D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2202D7C-C812-4DC2-AEF9-3F7120F1357D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2202D7C-C812-4DC2-AEF9-3F7120F1357D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F203345-E4FD-48D6-8526-105ACA1719C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F203345-E4FD-48D6-8526-105ACA1719C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F203345-E4FD-48D6-8526-105ACA1719C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F203345-E4FD-48D6-8526-105ACA1719C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
