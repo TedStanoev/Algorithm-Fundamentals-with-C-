@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CombinatorialProblems", "Co
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.PermutationsWithoutRepetitions", "1.PermutationsWithoutRepetitions\1.PermutationsWithoutRepetitions.csproj", "{47FC9EF2-C0E9-456D-A089-BDB023037049}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.PermutationsWithRepetition", "2.PermutationsWithRepetition\2.PermutationsWithRepetition.csproj", "{B2202D7C-C812-4DC2-AEF9-3F7120F1357D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.PermutationsWithRepetition", "2.PermutationsWithRepetition\2.PermutationsWithRepetition.csproj", "{B2202D7C-C812-4DC2-AEF9-3F7120F1357D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.VariationsWithoutRepetition", "3.VariationsWithoutRepetition\3.VariationsWithoutRepetition.csproj", "{9F203345-E4FD-48D6-8526-105ACA1719C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.VariationsWithoutRepetition", "3.VariationsWithoutRepetition\3.VariationsWithoutRepetition.csproj", "{9F203345-E4FD-48D6-8526-105ACA1719C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.VariationsWithRepetition", "4.VariationsWithRepetition\4.VariationsWithRepetition.csproj", "{A654444E-7A3E-4DF7-A927-6402614CC487}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{9F203345-E4FD-48D6-8526-105ACA1719C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F203345-E4FD-48D6-8526-105ACA1719C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F203345-E4FD-48D6-8526-105ACA1719C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A654444E-7A3E-4DF7-A927-6402614CC487}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A654444E-7A3E-4DF7-A927-6402614CC487}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A654444E-7A3E-4DF7-A927-6402614CC487}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A654444E-7A3E-4DF7-A927-6402614CC487}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
