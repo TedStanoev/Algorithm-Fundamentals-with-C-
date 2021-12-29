@@ -3,17 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31829.152
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Searching-Sorting", "Searching-Sorting\Searching-Sorting.csproj", "{F9559A45-7224-4FA1-B94B-7249E5E70779}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Searching-Sorting", "Searching-Sorting\Searching-Sorting.csproj", "{F9559A45-7224-4FA1-B94B-7249E5E70779}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectionSort", "SelectionSort\SelectionSort.csproj", "{D073A4F1-D8D2-4C2A-91A3-585409ABB33A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SelectionSort", "SelectionSort\SelectionSort.csproj", "{D073A4F1-D8D2-4C2A-91A3-585409ABB33A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSort", "BubbleSort\BubbleSort.csproj", "{98E6DBD4-BB9D-4C94-AB4A-F22E3BDAF189}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BubbleSort", "BubbleSort\BubbleSort.csproj", "{98E6DBD4-BB9D-4C94-AB4A-F22E3BDAF189}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertionSort", "InsertionSort\InsertionSort.csproj", "{CC850608-B70A-4DA5-9749-C2820D57D304}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InsertionSort", "InsertionSort\InsertionSort.csproj", "{CC850608-B70A-4DA5-9749-C2820D57D304}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickSort", "QuickSort\QuickSort.csproj", "{E956F541-A6AB-44EF-936C-5D8C385654BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuickSort", "QuickSort\QuickSort.csproj", "{E956F541-A6AB-44EF-936C-5D8C385654BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSort", "MergeSort\MergeSort.csproj", "{5E3071DE-DECF-4600-8F56-AE223080C55E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MergeSort", "MergeSort\MergeSort.csproj", "{5E3071DE-DECF-4600-8F56-AE223080C55E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinSum", "CoinSum\CoinSum.csproj", "{94FA91A2-2471-47DF-BA19-9BB015263167}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetCover", "SetCover\SetCover.csproj", "{78FFB07F-5C5E-4D2A-9D7D-306AB40C3029}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{5E3071DE-DECF-4600-8F56-AE223080C55E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E3071DE-DECF-4600-8F56-AE223080C55E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E3071DE-DECF-4600-8F56-AE223080C55E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94FA91A2-2471-47DF-BA19-9BB015263167}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94FA91A2-2471-47DF-BA19-9BB015263167}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94FA91A2-2471-47DF-BA19-9BB015263167}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94FA91A2-2471-47DF-BA19-9BB015263167}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78FFB07F-5C5E-4D2A-9D7D-306AB40C3029}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78FFB07F-5C5E-4D2A-9D7D-306AB40C3029}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78FFB07F-5C5E-4D2A-9D7D-306AB40C3029}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78FFB07F-5C5E-4D2A-9D7D-306AB40C3029}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
