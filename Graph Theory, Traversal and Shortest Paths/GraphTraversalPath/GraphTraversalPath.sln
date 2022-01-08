@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.Salaries", "4.Salaries\4.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.BreakCycles", "5.BreakCycles\5.BreakCycles.csproj", "{117372BF-EA6D-4D6B-B339-E1E25F754009}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.RoadReconstruction", "6.RoadReconstruction\6.RoadReconstruction.csproj", "{12622184-E5C6-4575-A833-63853A54CE68}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{117372BF-EA6D-4D6B-B339-E1E25F754009}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{117372BF-EA6D-4D6B-B339-E1E25F754009}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{117372BF-EA6D-4D6B-B339-E1E25F754009}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12622184-E5C6-4575-A833-63853A54CE68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12622184-E5C6-4575-A833-63853A54CE68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12622184-E5C6-4575-A833-63853A54CE68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12622184-E5C6-4575-A833-63853A54CE68}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
