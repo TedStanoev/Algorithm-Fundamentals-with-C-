@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphTraversalPath", "Graph
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.AreasInMatrix", "2.AreasInMatrix\2.AreasInMatrix.csproj", "{7A00E2EC-29A5-43D3-BA83-CA1F9BE1C69D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.CyclesInGraph", "3.CyclesInGraph\3.CyclesInGraph.csproj", "{10C6B28E-EB91-4B25-A622-C8224B89882E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{7A00E2EC-29A5-43D3-BA83-CA1F9BE1C69D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A00E2EC-29A5-43D3-BA83-CA1F9BE1C69D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A00E2EC-29A5-43D3-BA83-CA1F9BE1C69D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10C6B28E-EB91-4B25-A622-C8224B89882E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10C6B28E-EB91-4B25-A622-C8224B89882E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10C6B28E-EB91-4B25-A622-C8224B89882E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10C6B28E-EB91-4B25-A622-C8224B89882E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
