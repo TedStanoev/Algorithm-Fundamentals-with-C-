@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciseExam", "ExerciseExam.csproj", "{F311ADCB-1C90-4962-A439-0D020153A53A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Socks", "..\Socks\Socks.csproj", "{CE2ED3B3-5E62-4D3E-93BE-EF41062179D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PathFinder", "..\PathFinder\PathFinder.csproj", "{AA3E42AB-D929-4461-80B0-98C4997A0063}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F311ADCB-1C90-4962-A439-0D020153A53A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F311ADCB-1C90-4962-A439-0D020153A53A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F311ADCB-1C90-4962-A439-0D020153A53A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F311ADCB-1C90-4962-A439-0D020153A53A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE2ED3B3-5E62-4D3E-93BE-EF41062179D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE2ED3B3-5E62-4D3E-93BE-EF41062179D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE2ED3B3-5E62-4D3E-93BE-EF41062179D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE2ED3B3-5E62-4D3E-93BE-EF41062179D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA3E42AB-D929-4461-80B0-98C4997A0063}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA3E42AB-D929-4461-80B0-98C4997A0063}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA3E42AB-D929-4461-80B0-98C4997A0063}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA3E42AB-D929-4461-80B0-98C4997A0063}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26224381-1EA7-460A-A1E4-5FA645CBE207}
+	EndGlobalSection
+EndGlobal
